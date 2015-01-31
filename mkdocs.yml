@@ -1,0 +1,6 @@
+site_name: My Docs
+
+pages:
+- [index.md, Home]
+- [page2.md, About]
+- [page3.md, Section, About]
